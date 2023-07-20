@@ -199,6 +199,10 @@ Video
   visibility: hidden;
 }
 
+.loading {
+  color: black;
+}
+
 header {
   min-height: 100vh;
   position: relative;
